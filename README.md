@@ -2,6 +2,8 @@
 
 AuraHealth is a user-focused health management app designed to make personal healthcare effortless through passive data collection, AI insights, and secure data ownership
 
+Demo:  https://aura-health-app-six.vercel.app/
+
 ## 🧩 Key Features
 - 📸 Magic Scan (OCR for prescriptions & lab reports)
 - 📊 Health trends & visual insights
